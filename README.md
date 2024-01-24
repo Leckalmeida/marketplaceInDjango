@@ -26,7 +26,7 @@ Welcome to the Marketplace Django Application! This web platform empowers users 
   - A powerful Python web framework that forms the backbone of the application.
 
 - **HTML and CSS:**
-  - HTML structures web pages, while CSS ensures a visually appealing and responsive user interface.
+  - HTML structures web pages, while Tailwind CSS ensures a visually appealing and responsive user interface.
 
 ## Getting Started
 
