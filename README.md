@@ -69,8 +69,6 @@ To run the Marketplace Django Application locally, follow these steps:
 
 # Future Improvements
 
-Here are some potential future improvements and features that could enhance your Marketplace Django Application:
-
 ## User Profiles:
 
 - Allow users to create detailed profiles with additional information, such as a profile picture, bio, and contact details.
