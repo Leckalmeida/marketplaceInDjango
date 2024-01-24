@@ -102,4 +102,4 @@ Thank you for considering contributing to this project!
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own projects.
 
 
-Feel free to copy and paste this content into your README.md file. Make sure to replace placeholders like `https://github.com/your-username/marketplace-django.git` with the actual URL of your GitHub repository.
+Feel free to copy and paste this content into your README.md file. Make sure to replace placeholders like `https://github.com/Leckalmeida/marketplace-django.git` with the actual URL of your GitHub repository.
