@@ -2,6 +2,16 @@
 
 Welcome to the Marketplace Django Application! This web platform empowers users to connect, negotiate, and engage in transactions seamlessly. Built with Django, a high-level Python web framework, the Marketplace provides an intuitive environment for users to explore and connect with potential buyers or sellers.
 
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Future Improvements](#future-improvements)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Features
 
 - **User Registration:**
@@ -34,56 +44,66 @@ To run the Marketplace Django Application locally, follow these steps:
 
 1. **Clone the repository:**
 
-   git clone https://github.com/your-username/marketplace-django.git
-   cd marketplace-django
+    ```bash
+    git clone https://github.com/your-username/marketplace-django.git
+    cd marketplace-django
+    ```
 
-2. **Install dependecies:**
+2. **Install dependencies:**
+
+    ```bash
     pip install -r requirements.txt
+    ```
 
 3. **Apply database migrations:**
+
+    ```bash
     python manage.py migrate
+    ```
 
 4. **Start the development server:**
+
+    ```bash
     python manage.py runserver
+    ```
 
 5. **Access the application:**
-    Visit http://localhost:8000 in your web browser.
 
-# Usage
+    Visit [http://localhost:8000](http://localhost:8000) in your web browser.
 
-## User Registration:
+## Usage
+
+### User Registration:
 
 1. Create an account on the registration page with your details.
 
-## Conversations:
+### Conversations:
 
 2. Log in and navigate to the conversation section to communicate with other users.
 
-## Product Exploration:
+### Product Exploration:
 
 3. Browse products based on categories and view detailed information about each item.
 
-## Similar Products:
+### Similar Products:
 
 4. While viewing a product, check out suggested similar products for more options.
 
-# Future Improvements
+## Future Improvements
 
-## User Profiles:
+### User Profiles:
 
 - Allow users to create detailed profiles with additional information, such as a profile picture, bio, and contact details.
 
-## Enhanced Messaging System:
+### Enhanced Messaging System:
 
 - Implement real-time messaging using technologies like WebSockets to improve the speed and responsiveness of the messaging system.
 
-## Product Reviews and Ratings:
+### Product Reviews and Ratings:
 
 - Introduce a review and rating system for products to help build trust and credibility within the marketplace.
 
-... (continue the list as per your needs)
-
-# Contributing
+## Contributing
 
 If you'd like to contribute to the Marketplace Django Application, follow these guidelines:
 
@@ -95,9 +115,7 @@ If you'd like to contribute to the Marketplace Django Application, follow these 
 
 Thank you for considering contributing to this project!
 
-# License
+## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own projects.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own projects. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
-
-Feel free to copy and paste this content into your README.md file. Make sure to replace placeholders like `https://github.com/Leckalmeida/marketplace-django.git` with the actual URL of your GitHub repository.
